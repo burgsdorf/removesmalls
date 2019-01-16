@@ -1,5 +1,5 @@
 ## removesmalls.pl
-## The author of the script is unknown. Submitted as a supplementary material for the scientific manuscript. 
+## The author of the script is unknown. Submitted as supplementary material for the scientific manuscript. 
 #!/usr/bin/perl
 use strict;
 use warnings;
